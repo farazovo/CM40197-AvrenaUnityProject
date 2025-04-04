@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85ddb67ffc3a7bc4cbd0271bf567550c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206257
+  packageName: Auditorium02
+  packageVersion: 2019.4.24F1
+  assetPath: Assets/Auditorium02/FBX/Materials/Chair_Side_Black.mat
+  uploadId: 465995

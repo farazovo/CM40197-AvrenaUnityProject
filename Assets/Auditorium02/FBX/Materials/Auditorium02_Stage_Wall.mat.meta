@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36547cbdd2706364e8c8693828702973
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206257
+  packageName: Auditorium02
+  packageVersion: 2019.4.24F1
+  assetPath: Assets/Auditorium02/FBX/Materials/Auditorium02_Stage_Wall.mat
+  uploadId: 465995

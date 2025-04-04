@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15c6e0590766cd745b936ec63a2d4b7e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206257
+  packageName: Auditorium02
+  packageVersion: 2019.4.24F1
+  assetPath: Assets/Auditorium02/FBX/Materials/Auditorium02_Wall_albedo.mat
+  uploadId: 465995

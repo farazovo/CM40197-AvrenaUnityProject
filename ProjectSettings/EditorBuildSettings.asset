@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cameras.unity
     guid: bbf2abd54898c8747ad7fffc8ad3234e
+  - enabled: 1
+    path: Assets/Scenes/EventSubtitled.unity
+    guid: cd7e94006df44084aba8256e0d52eb51
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d0bd53ca3f4cf1549b0d752efd3c5584, type: 2}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0feb0d937d347e4e984fef319ebd1d8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206257
+  packageName: Auditorium02
+  packageVersion: 2019.4.24F1
+  assetPath: Assets/Auditorium02/FBX/Materials/Auditorium02_Railings.mat
+  uploadId: 465995

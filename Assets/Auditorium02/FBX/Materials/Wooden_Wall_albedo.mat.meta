@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a47e5698796361249ba044d35be800c5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206257
+  packageName: Auditorium02
+  packageVersion: 2019.4.24F1
+  assetPath: Assets/Auditorium02/FBX/Materials/Wooden_Wall_albedo.mat
+  uploadId: 465995
